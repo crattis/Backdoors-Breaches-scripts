@@ -6,3 +6,6 @@ Designed to randomly select 1 of each attack cards, based on the max number of c
 
 ## roll_d20.py
 Designed to randomly select between 1 and 20, while keeping track of the current rounds. Program asks user to continue, and ends after 10 rounds.
+
+## TODO:
+Clean a lot of stuff up. :)
