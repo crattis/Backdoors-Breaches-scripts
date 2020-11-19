@@ -1,4 +1,4 @@
-# Backdoors-Breaches-scripts
+# Backdoors & Breaches scripts for building scenarios and rolling dice.
 Scripts related to Backdoors &amp; Breaches by Black Hills Information Securitry.
 
 ## bb_scenario_generator.py
